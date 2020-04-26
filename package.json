@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.10.2",
+    "react": "^16.13.1",
     "react-dom": "^16.10.2",
     "react-scripts": "^3.2.0",
     "serve": "^11.2.0"
